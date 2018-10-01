@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1538078764 source:/home/denis/Programming/C++/CodeBlocks/Factory/main.cpp
+	<iostream>
+	"Figure.h"
+	"Manipulator.h"
+	"LineFigure.h"
+	"TextFigure.h"
+	"LineManipulator.h"
+	"TextManipulator.h"
+
+1537974100 source:/home/denis/Programming/C++/CodeBlocks/Factory/src/Figure.cpp
+	"Figure.h"
+
+1538078185 /home/denis/Programming/C++/CodeBlocks/Factory/include/Figure.h
+	"Manipulator.h"
+
+1538078147 source:/home/denis/Programming/C++/CodeBlocks/Factory/src/LineFigure.cpp
+	"LineFigure.h"
+
+1538078107 /home/denis/Programming/C++/CodeBlocks/Factory/include/LineFigure.h
+	<iostream>
+	"Figure.h"
+	"LineManipulator.h"
+
+1538078275 source:/home/denis/Programming/C++/CodeBlocks/Factory/src/TextFigure.cpp
+	"TextFigure.h"
+
+1538078238 /home/denis/Programming/C++/CodeBlocks/Factory/include/TextFigure.h
+	<iostream>
+	"Figure.h"
+	"TextManipulator.h"
+
+1538078229 /home/denis/Programming/C++/CodeBlocks/Factory/include/TextManipulator.h
+	<iostream>
+	"Manipulator.h"
+
+1538077820 /home/denis/Programming/C++/CodeBlocks/Factory/include/Manipulator.h
+
+1538078624 source:/home/denis/Programming/C++/CodeBlocks/Factory/src/LineManipulator.cpp
+	"LineManipulator.h"
+
+1538078207 /home/denis/Programming/C++/CodeBlocks/Factory/include/LineManipulator.h
+	<iostream>
+	"Manipulator.h"
+
+1538076360 source:/home/denis/Programming/C++/CodeBlocks/Factory/src/Manipulator.cpp
+	"Manipulator.h"
+
+1538078626 source:/home/denis/Programming/C++/CodeBlocks/Factory/src/TextManipulator.cpp
+	"TextManipulator.h"
+
